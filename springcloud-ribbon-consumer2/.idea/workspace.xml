@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a88fea52-0c0b-4d59-a21c-b3d50e0d6479" name="Default Changelist" comment="" />
+    <list default="true" id="a88fea52-0c0b-4d59-a21c-b3d50e0d6479" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../springcloud-ribbon-consumer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-ribbon-consumer/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-ribbon-consumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-ribbon-consumer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/springcloudribbonconsumer2/mycontroller/ConsumerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/springcloudribbonconsumer2/mycontroller/ConsumerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-ribbon-consumer3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-ribbon-consumer3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-ribbon-consumer3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-ribbon-consumer3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-ribbon-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-ribbon-server/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -28,6 +37,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../springcloud-ribbon-consumer3" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -68,10 +81,27 @@
       <workItem from="1575534169397" duration="6380000" />
       <workItem from="1575598367834" duration="4631000" />
       <workItem from="1575627340337" duration="155000" />
+      <workItem from="1576051421663" duration="277000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
 </project>
