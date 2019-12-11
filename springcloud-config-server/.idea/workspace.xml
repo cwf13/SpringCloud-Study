@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74efabc1-a123-4826-88b9-11804ffc3460" name="Default Changelist" comment="" />
+    <list default="true" id="74efabc1-a123-4826-88b9-11804ffc3460" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../springcloud-config-client/src/main/java/com/example/springcloudconfigclient/mycontroller/ClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud-config-client/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-config-eureka/src/main/java/com/example/springcloudconfigeureka/SpringcloudConfigEurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-config-eureka/src/main/java/com/example/springcloudconfigeureka/SpringcloudConfigEurekaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-eureka-server/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-eureka-server/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-eureka-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-ribbon-consumer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-ribbon-consumer/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-ribbon-consumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-ribbon-consumer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-ribbon-consumer2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-ribbon-consumer2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-ribbon-consumer2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-ribbon-consumer2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-ribbon-consumer2/target/classes/com/example/springcloudribbonconsumer2/mycontroller/ConsumerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-ribbon-consumer2/target/classes/com/example/springcloudribbonconsumer2/mycontroller/ConsumerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-ribbon-consumer3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-ribbon-consumer3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-ribbon-consumer3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-ribbon-consumer3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-ribbon-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-ribbon-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-ribbon-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-ribbon-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-ribbon-server/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-ribbon-server/target/classes/application.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +56,7 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -50,8 +66,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1Ub6QmOJFdY5ZYc10bn07uzjq2z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -97,6 +116,7 @@
       <workItem from="1575621428731" duration="1463000" />
       <workItem from="1575623897260" duration="448000" />
       <workItem from="1575626104051" duration="1134000" />
+      <workItem from="1576052418641" duration="2746000" />
     </task>
     <task id="LOCAL-00001" summary="测试 idea整合git">
       <created>1575623954383</created>
@@ -173,6 +193,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="测试 idea整合git" />
     <option name="LAST_COMMIT_MESSAGE" value="测试 idea整合git" />
   </component>
